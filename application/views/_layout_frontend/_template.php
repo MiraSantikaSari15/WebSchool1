@@ -1,0 +1,3 @@
+<?=$_header?>
+<?=$_content?>
+<?=$_footer?>
